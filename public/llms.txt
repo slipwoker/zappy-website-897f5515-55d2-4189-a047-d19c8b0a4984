@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-897f5515.zappy5.app
+https://example.com
 מגלים את הסוד של האוכל הישראלי האמיתי: חומוס, פלאפל, שניצל וצ&#39;יפס במנת רחוב מנצחת. תפריט בשרי וצמחוני שמדבר לכולם, באווירה ביתית ואותנטית. הצטרפו אלינו לשישי שכולו טעם.
 
 ### אודות
-https://-897f5515.zappy5.app/about
+https://example.com/about
 מכירים את האנשים והתשוקה שמאחורי הסוד של האוכל. סיפור של מתכונים ביתיים, אהבה למטבח הישראלי המסורתי ומסורת של אוכל שמחבר אנשים. בואו להרגיש את הרוח שלנו.
 
 ### חוויית שישי
-https://-897f5515.zappy5.app/friday-experience
+https://example.com/friday-experience
 חוויית השישי שלנו היא הרבה יותר מארוחה: אווירה של ערב שבת, ניחוחות מטריפים של פלאפל טרי, שניצל פריך וצ&#39;יפס מושלם. תנו לעצמכם מתנה של אוכל מנחם שמגלה את הסוד של האוכל האמיתי.
 
 ### צור קשר
-https://-897f5515.zappy5.app/contact
+https://example.com/contact
 רוצים לשמוע עוד על הסוד של האוכל? צרו קשר להזמנות, שאלות או סתם להגיד שלום. אנחנו כאן כדי להפוך את יום שישי שלכם לטעים במיוחד. השאירו פרטים ונחזור אליכם עם חיוך.
 
 ### Products
-https://-897f5515.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - ברז שבאוכל
 
 ### Cart
-https://-897f5515.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-897f5515.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-897f5515.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-897f5515.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-897f5515.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-897f5515.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - ברז שבאוכל
 
 ### Category
-https://-897f5515.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - ברז שבאוכל
 
 ### תודה שפניתם אלינו
-https://-897f5515.zappy5.app/thank-you
+https://example.com/thank-you
 ברז שבאוכל - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-897f5515.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-897f5515.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-897f5515.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -95,8 +95,8 @@ Restaurant / Food Service
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-897f5515.zappy5.app/sitemap.xml
-- Robots: https://-897f5515.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-897f5515.zappy5.app/llms-full.txt
-- Products (JSON): https://-897f5515.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-897f5515.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
