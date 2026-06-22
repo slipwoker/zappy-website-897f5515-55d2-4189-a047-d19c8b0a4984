@@ -1,0 +1,102 @@
+# ברז שבאוכל — Generative Engine Optimization Map
+
+> A traditional Israeli street food business specializing in classic dishes such as hummus, falafel, schnitzel, chips, sandwiches, and both meat and vegetarian options. The business operates exclusively on Fridays, giving it a unique weekly character — likely catering to the Friday pre-Shabbat crowd. The vibe is authentic, homey, and rooted in Israeli culinary culture, with a menu that appeals to a wide audience including meat-eaters and vegetarians alike.
+
+---
+
+## Pages
+
+### בית
+https://-897f5515.zappy5.app
+מגלים את הסוד של האוכל הישראלי האמיתי: חומוס, פלאפל, שניצל וצ&#39;יפס במנת רחוב מנצחת. תפריט בשרי וצמחוני שמדבר לכולם, באווירה ביתית ואותנטית. הצטרפו אלינו לשישי שכולו טעם.
+
+### אודות
+https://-897f5515.zappy5.app/about
+מכירים את האנשים והתשוקה שמאחורי הסוד של האוכל. סיפור של מתכונים ביתיים, אהבה למטבח הישראלי המסורתי ומסורת של אוכל שמחבר אנשים. בואו להרגיש את הרוח שלנו.
+
+### חוויית שישי
+https://-897f5515.zappy5.app/friday-experience
+חוויית השישי שלנו היא הרבה יותר מארוחה: אווירה של ערב שבת, ניחוחות מטריפים של פלאפל טרי, שניצל פריך וצ&#39;יפס מושלם. תנו לעצמכם מתנה של אוכל מנחם שמגלה את הסוד של האוכל האמיתי.
+
+### צור קשר
+https://-897f5515.zappy5.app/contact
+רוצים לשמוע עוד על הסוד של האוכל? צרו קשר להזמנות, שאלות או סתם להגיד שלום. אנחנו כאן כדי להפוך את יום שישי שלכם לטעים במיוחד. השאירו פרטים ונחזור אליכם עם חיוך.
+
+### Products
+https://-897f5515.zappy5.app/products
+המוצרים שלנו - ברז שבאוכל
+
+### Cart
+https://-897f5515.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-897f5515.zappy5.app/checkout
+תשלום
+
+### Login
+https://-897f5515.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-897f5515.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-897f5515.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-897f5515.zappy5.app/product/:slug
+פרטי המוצר - ברז שבאוכל
+
+### Category
+https://-897f5515.zappy5.app/category/:slug
+מוצרים - ברז שבאוכל
+
+### תודה שפניתם אלינו
+https://-897f5515.zappy5.app/thank-you
+ברז שבאוכל - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-897f5515.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-897f5515.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-897f5515.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ברז שבאוכל
+A traditional Israeli street food business specializing in classic dishes such as hummus, falafel, schnitzel, chips, sandwiches, and both meat and vegetarian options. The business operates exclusively on Fridays, giving it a unique weekly character — likely catering to the Friday pre-Shabbat crowd. The vibe is authentic, homey, and rooted in Israeli culinary culture, with a menu that appeals to a wide audience including meat-eaters and vegetarians alike.
+
+## Target Audience
+- משפחות מקומיות
+
+## Industry
+Restaurant / Food Service
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-897f5515.zappy5.app/sitemap.xml
+- Robots: https://-897f5515.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-897f5515.zappy5.app/llms-full.txt
+- Products (JSON): https://-897f5515.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-897f5515.zappy5.app/product-feed.xml
