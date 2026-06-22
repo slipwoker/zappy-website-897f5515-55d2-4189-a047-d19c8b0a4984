@@ -5335,3 +5335,12 @@ Description: ברז שבאוכל - תודה שפניתם אלינו
 
 ---
 
+## Product Catalog
+
+### החומוס של גיא
+URL: https://example.com/product/hchvmvs-shl-gya-22w1l6
+Price: 30.00 ILS
+Availability: In stock
+
+---
+

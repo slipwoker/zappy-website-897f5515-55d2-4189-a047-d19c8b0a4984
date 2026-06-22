@@ -4,6 +4,18 @@
     <title>ברז שבאוכל</title>
     <link>https://example.com</link>
     <description>Product feed for ברז שבאוכל</description>
-    <lastBuildDate>Mon, 22 Jun 2026 17:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 18:09:10 GMT</lastBuildDate>
+    <item>
+      <g:id>54f1722e-1a16-4cc8-b270-288e80c85da9</g:id>
+      <g:title>החומוס של גיא</g:title>
+      <g:description>יש חומוס שתי פיתות וכרוב ירוק מוחמץ</g:description>
+      <g:link>https://example.com/product/hchvmvs-shl-gya-22w1l6</g:link>
+      <g:image_link>https://example.com/assets/image-product-image-1782151665777-6mek3d.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>30.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ברז שבאוכל</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

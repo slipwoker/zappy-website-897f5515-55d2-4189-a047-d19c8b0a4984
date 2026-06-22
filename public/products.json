@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-22T17:53:37.800Z",
+  "generated_at": "2026-06-22T18:09:10.032Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "54f1722e-1a16-4cc8-b270-288e80c85da9",
+      "slug": "hchvmvs-shl-gya-22w1l6",
+      "name": "החומוס של גיא",
+      "name_translations": {},
+      "description": "",
+      "short_description": "יש חומוס שתי פיתות וכרוב ירוק מוחמץ",
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/image-product-image-1782151665777-6mek3d.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/hchvmvs-shl-gya-22w1l6",
+      "categories": [],
+      "updated_at": "2026-06-22T18:08:48.169Z"
+    }
+  ]
 }
